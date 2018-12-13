@@ -1,7 +1,7 @@
 {
-  "name": "gitbook-plugin-page-footer",
-  "version": "5.4.0",
-  "description": "a gitbook-plugin for generating footer",
+  "name": "gitbook-plugin-go-crazy",
+  "version": "1.0.0",
+  "description": "a gitbook-plugin for go-crazy",
   "engines": {
     "gitbook": ">=3.0.0-pre.0"
   },
@@ -11,23 +11,21 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/aleen42/gitbook-footer.git"
+    "url": "git+https://github.com/go-crazy/gitbook-plugin-go-crazy.git"
   },
   "keywords": [
     "gitbook",
-    "gitbook-plugin",
-    "footer"
+    "gitbook-plugin"
   ],
-  "author": "aleen42 <aleen42@vip.qq.com> (http://aleen42.github.io/pc.html)",
+  "author": "go-crazy",
   "contributors": [
-    "aleen42 <aleen42@vip.qq.com>",
-    "TuckerWhitehouse <TuckerWhitehouse@gmail.com>"
+    "qylin <18612116114@163.com>"
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/aleen42/gitbook-footer/issues"
+    "url": "https://github.com/go-crazy/gitbook-plugin-go-crazy/issues"
   },
-  "homepage": "https://github.com/aleen42/gitbook-footer#readme",
+  "homepage": "https://github.com/go-crazy/gitbook-plugin-go-crazy#readme",
   "dependencies": {
     "sync-request": "3.0.1",
     "node-cache": "3.2.1"
